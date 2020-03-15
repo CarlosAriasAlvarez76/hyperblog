@@ -1,2 +1,0 @@
-# PlatziGit
-Platzi - Git 
